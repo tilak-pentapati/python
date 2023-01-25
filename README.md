@@ -1,6 +1,6 @@
 # code 
 
-fib series
-odd_even
-number to word
+-fib series
+-odd_even
+-number to word
 
