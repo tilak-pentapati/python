@@ -1,3 +1,6 @@
-# Demo
+# code 
 
-hello world!
+fib series
+odd_even
+number to word
+
